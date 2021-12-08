@@ -1,0 +1,15 @@
+{
+  "name": "algo",
+  "version": "1.0.0",
+  "description": "test structurel sur l'algorithme de la calculatrice",
+  "main": "calco.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "enquirer": "^2.3.6",
+    "jest": "^27.4.3"
+  }
+}
